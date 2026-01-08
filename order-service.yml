@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  message: Hello UPDATED from GitHub
+  message: Order is ready
