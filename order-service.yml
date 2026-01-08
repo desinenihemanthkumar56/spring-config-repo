@@ -1,4 +1,4 @@
 port: 8081
 
 app:
-  message: Hello from GitHub Congif Server
+  message: Hello from GitHub Config Server
