@@ -2,4 +2,4 @@ server:
   port: 8082
 
 app:
-  message: Product service is running
+  message: Product service 
