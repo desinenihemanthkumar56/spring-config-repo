@@ -2,4 +2,4 @@ server:
   port: 8082
 
 app:
-  message: Product service 
+  message: Product service-test one
