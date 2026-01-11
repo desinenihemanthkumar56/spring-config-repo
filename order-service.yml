@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  message: Order is ready in 10 mins
+  message: i am from order service
